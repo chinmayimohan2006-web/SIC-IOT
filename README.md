@@ -1,1 +1,4 @@
 # SIC-IOT
+
+Samsung innovation Campus 
+IOT training
